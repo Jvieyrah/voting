@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.sistemadevotacao.GerenciamentoVotacaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in null
+com.betrybe.sistemadevotacao.GerenciamentoVotacaoTest.testGerenciamentoVotacaoVotingMethods  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.betrybe.sistemadevotacao.GerenciamentoVotacaoTest.checkVotingMethodsOk(GerenciamentoVotacaoTest.java:171)
+	at com.betrybe.sistemadevotacao.GerenciamentoVotacaoTest.testGerenciamentoVotacaoVotingMethods(GerenciamentoVotacaoTest.java:118)
+
